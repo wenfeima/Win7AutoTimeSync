@@ -1,0 +1,7 @@
+# 运行时生成
+servers.ini
+TimeSync.log
+
+# 编译中间产物
+*.pdb
+*.ilk
